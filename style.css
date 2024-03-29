@@ -1,0 +1,208 @@
+.padd{
+    padding-left:5%;
+}
+.blue{
+    background-color: rgb(61, 190, 221);
+    height:10%;
+    width:9%;
+}
+.font{
+    font-size:45;
+    font-weight:bolder;
+    color:white;
+}
+.img{
+    background-image: url('bg\ \(1\).jpg');
+    height:80%;
+    width: 100%;
+    background-repeat: no-repeat;
+}
+#bold{
+    font-weight:800;    
+}
+#pad{
+    position:relative;
+    margin-top:-3%;
+    font-weight:lighter;
+}
+.edit{
+    font-size:20;
+    color:white;
+}
+.black{
+    background-color:rgba(0,0,0,0.304);}
+
+#type{
+    list-style-type:square;
+}
+.white{
+    color:white;
+    font-weight:bold;
+    font-size:20;
+}    
+.grey{
+    background-color:grey;
+    height:50%;
+    width:15%;
+    padding-bottom:3%;
+    padding-top:4%;
+    margin-left: 75%;
+    margin-top:-14%; 
+    opacity:0.9;   
+}
+.yellow{
+    background-color:rgba(255, 255, 0, 0.438);
+    color:white;
+    z-index:5;
+    text-rendering: auto;
+    margin-top:10%;
+    height:25%;
+    width:75%;
+}
+#weight{
+    font-weight: bolder;
+    font-size:50;
+}
+#program{
+    font-size:45;
+    margin-top:-5%;
+}
+.mar{
+    width:25%;
+    margin-left:95%;
+    margin-top:-27%;
+}
+.black2{
+    
+    background-color:rgba(0,0,0,0.304);
+    height: 250px;
+    text-align: right;
+    padding-top: 9%;
+    padding-right:3%
+}
+.pink{
+    color:rgb(231, 81, 81);
+    font-size:60;
+    font-weight: 900;
+}
+.fontgrey{
+    color:grey;
+    font-size:20;
+    font-weight:700;
+}
+.id{
+    padding-left: 7.5%;
+}
+.one{
+    font-size: 60;
+    font-weight: 700;
+    color: rgb(242, 81, 81);
+    letter-spacing: 1px;
+    padding-top: 2%;
+}
+.statement{
+    font-size: 32;
+    color: grey;
+    font-weight: 600;
+    letter-spacing: 1px;
+    word-spacing: 3px;
+    margin-top: -2%
+}
+.dollar{
+    font-size: 22;
+    font-weight: 400;
+    color: rgb(145, 143, 143);
+    letter-spacing: 0.5px;
+    margin-top: -1.8%;
+}.code{
+    
+    margin-bottom:-15%;
+    margin-top: -5%;
+}
+.text6{
+    background-color:  rgb(69, 205, 228);
+    width: 33.3%;
+    position: relative;
+    left: 0.5%;
+    padding-top: 5%;
+}
+.ed{
+    font-size:25PX;
+    color:grey;
+    position: relative;
+    top: 30%;
+    left:-11%;
+}
+.buss{
+    position: relative;    top: 30%;    left:45%;    font-size:15px;    color: white;
+}
+.text8{
+    margin-top: 4%;
+    padding-left: 8.5%;
+    padding-right: 1.5%
+}
+.us{
+    font-size: 50;
+    font-weight: 700;
+    color: rgb(69, 205, 228);
+    letter-spacing: 1px;
+}
+.it{
+    margin-left: 50%;
+    margin-top: -5%;
+    height: 22%;
+    width: 39%
+}
+.start,
+.money,
+.gift
+{
+    font-size: 30;
+    color: grey;
+    font-weight: 600;
+    letter-spacing: 1px;
+    word-spacing: 3px;
+}
+.p1,
+.p2,
+.p3{
+    color: rgb(145, 143, 143);
+    margin-bottom: 5%
+}
+.text7
+{
+    background-color: rgb(247, 249, 248);
+    padding-left: 8%;
+}
+.your{
+    font-size: 20;
+    font-weight: 700;
+    color: rgb(242, 81, 81);
+    letter-spacing: 1px;
+    margin-top: 3%
+}
+.would{
+    font-size: 45;
+    font-weight: 800;
+    color: grey;
+    letter-spacing: 1px;
+    margin-top:-1%;
+}
+.dummy{
+    font-size: 15;
+    font-weight: 400;
+    color: grey;
+    padding-left: 23%;
+    margin-top: -8%
+}
+.ruppee{
+    font-size: 22;
+    font-weight: 600;
+    color: grey;
+    margin-bottom: 4%;
+}
+.line{
+    height: 13px;
+    width: 66.8%;
+    background-color: rgb(242, 81, 81);
+}
